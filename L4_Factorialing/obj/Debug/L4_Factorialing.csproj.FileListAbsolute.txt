@@ -1,0 +1,6 @@
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\bin\Debug\L4_Factorialing.exe.config
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\bin\Debug\L4_Factorialing.exe
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\bin\Debug\L4_Factorialing.pdb
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\obj\Debug\L4_Factorialing.csprojResolveAssemblyReference.cache
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\obj\Debug\L4_Factorialing.exe
+c:\users\derek\documents\visual studio 2015\Projects\L4_Factorialing\L4_Factorialing\obj\Debug\L4_Factorialing.pdb
