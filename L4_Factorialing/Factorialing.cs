@@ -1,4 +1,12 @@
 ﻿using System;
+///-----------------------------------------------------------------------------
+///   Namespace:    L4_Factoraling
+///   Description:  Input a number to get its factorial
+///   Author:       Derek Wolters                
+///   Date:         3.29.17
+///   Revision History:
+///   Name:           Date:        Description:
+///-----------------------------------------------------------------------------
 
 namespace L4_Factorialing
 {
@@ -47,7 +55,7 @@ namespace L4_Factorialing
             else { return temp; }
         }
 
-        //create and display a table of calculated results
+        //calculate the results
         public static int CalcFactorial(int num)
         {
             if (num == 0)
@@ -56,20 +64,6 @@ namespace L4_Factorialing
             }
 
             return num * CalcFactorial(num - 1);
-        }
-
-        //calculate the square of a number
-        public static int CalcSq(int num)
-        {
-            //Console.WriteLine(num * num);
-            return num * num;
-        }
-
-        //calculate the cube of a number
-        public static int CalcCu(int num)
-        {
-            //Console.WriteLine(num * num * num);
-            return num * num * num;
         }
 
         //exit the program when the user wants to
